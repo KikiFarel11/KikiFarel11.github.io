@@ -200,6 +200,19 @@ section {
 }
 .expe {
     padding-left: 105px;
-    font-size: 39px;
     margin-top: 60px;
 }
+.ju{
+    font-size: 35px;
+}
+.tab {
+    font-size: 33px;
+    text-align: left;
+}
+.tab table {
+    width: 92%;
+    height: 50%;
+    margin-top: 30px;
+  
+}
+
